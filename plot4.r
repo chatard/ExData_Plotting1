@@ -1,4 +1,4 @@
-plot4.r
+#plot4.r
   par(mfrow=c(2,2))
   
   ##PLOT 1
